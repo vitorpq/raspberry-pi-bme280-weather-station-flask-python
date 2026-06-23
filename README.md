@@ -5,3 +5,5 @@ A Raspberry Pi powered BME280 weather station dashboard built using Python and F
 
 ## Write Up:  
 [Raspberry Pi BME280 Weather Station Using Python and Flask](https://www.donskytech.com/raspberry-pi-bme280-weather-station-using-python-and-flask/)
+---
+*Este README foi atualizado automaticamente em 2026-06-23 09:23:59.*
